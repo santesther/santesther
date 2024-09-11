@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Sou uma Desenvolvedora Web apaixonada por tecnologia e inovação. Tenho uma sólida experiência em Ruby/Ruby on Rails, JavaScript, React, Python e bancos de dados relacionais. Atualmente, estou cursando bacharelado na Universidade Federal Fluminense em Campos dos Goytacazes, onde estou constantemente ampliando meu conhecimento e aprimorando minhas habilidades.<br>Adoro enfrentar novos desafios e estou sempre em busca de aprender mais e de contribuir para projetos que façam a diferença. Meu GitHub é um espaço onde compartilho minhas criações, colaborações e experimentos. Fique à vontade para explorar meus repositórios e entrar em contato!</p>
+<p align="left">Sou uma Desenvolvedora Web apaixonada por tecnologia e inovação. Tenho uma sólida experiência em Ruby/Ruby on Rails, JavaScript, React, Python e bancos de dados relacionais. Atualmente, estou cursando bacharelado na Universidade Federal Fluminense em Campos dos Goytacazes, onde estou constantemente ampliando meu conhecimento e aprimorando minhas habilidades.<br>Adoro enfrentar novos desafios e estou sempre em busca de aprender mais e de contribuir para projetos que façam a diferença. Meu GitHub é um espaço onde compartilho minhas criações, colaborações e experimentos.</p>
 
 ###
 
@@ -61,5 +61,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
 </div>
+
+###
+
+<p align="left">Fique à vontade para explorar meus repositórios e entrar em contato!</p>
 
 ###
