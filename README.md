@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Sou uma Desenvolvedora Web apaixonada por tecnologia e inovação. Tenho uma sólida experiência em Ruby/Ruby on Rails, JavaScript, React, Python e bancos de dados relacionais. Atualmente, estou cursando bacharelado na Universidade Federal Fluminense em Campos dos Goytacazes, onde estou constantemente ampliando meu conhecimento e aprimorando minhas habilidades.<br>Adoro enfrentar novos desafios e estou sempre em busca de aprender mais e de contribuir para projetos que façam a diferença. Meu GitHub é um espaço onde compartilho minhas criações, colaborações e experimentos.</p>
+<h3 align="left">Sou uma Desenvolvedora Web apaixonada por tecnologia e inovação. Tenho uma sólida experiência em Ruby/Ruby on Rails, JavaScript, React, Python e bancos de dados relacionais. Atualmente, estou cursando bacharelado na Universidade Federal Fluminense em Campos dos Goytacazes, onde estou constantemente ampliando meu conhecimento e aprimorando minhas habilidades.<br>Adoro enfrentar novos desafios e estou sempre em busca de aprender mais e de contribuir para projetos que façam a diferença. Meu GitHub é um espaço onde compartilho minhas criações, colaborações e experimentos.</h3>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 Atualmente, estou integrando APIs com Python utilizando Flask!<br>🎯 Objetivo: Me aprofundar ainda mais na linguagem.<br><br>🎲:  Um dos meus projetos mais significativos foi o desenvolvimento de um sistema em Ruby on Rails 7 para a Universidade Federal Fluminense, destinado à Diretoria das Licenciaturas do campus Campos Centro, implementado recentemente e ainda em vigência.</p>
+<h4 align="left">📚 Atualmente, estou integrando APIs com Python utilizando Flask!<br>🎯 Objetivo: Me aprofundar ainda mais na linguagem.<br><br>🎲:  Um dos meus projetos mais significativos foi o desenvolvimento de um sistema em Ruby on Rails 7 para a Universidade Federal Fluminense, destinado à Diretoria das Licenciaturas do campus Campos Centro, implementado recentemente e ainda em vigência.</h4>
 
 ###
 
@@ -53,7 +53,7 @@
 
 ###
 
-<p align="left">Fique à vontade para explorar meus repositórios e entrar em contato!</p>
+<h4 align="left">Fique à vontade para explorar meus repositórios e entrar em contato!</h4>
 
 ###
 
