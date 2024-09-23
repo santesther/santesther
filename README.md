@@ -12,7 +12,7 @@ Adoro enfrentar novos desafios e estou sempre em busca de aprender mais e de con
 
 ###
 
-<h4 align="left">📚 Atualmente, estou integrando APIs com Python utilizando Flask!<br>🎯 Objetivo: Me aprofundar ainda mais na linguagem.<br><br>🎲:  Um dos meus projetos mais significativos foi o desenvolvimento de um sistema em Ruby on Rails 7 para a Universidade Federal Fluminense, destinado à Diretoria das Licenciaturas do campus Campos Centro, implementado recentemente e ainda em vigência.</h4>
+<h4 align="left">📚 Atualmente, estou integrando APIs com Python utilizando Flask!<br>🎯 Objetivo: Me aprofundar ainda mais na linguagem.<br><br>🎲:  Um dos meus projetos mais significativos foi o desenvolvimento de um sistema em Ruby on Rails 7 para o Instituto Federal Fluminense, destinado à Diretoria das Licenciaturas do campus Campos Centro, implementado recentemente e ainda em vigência.</h4>
 
 ###
 
