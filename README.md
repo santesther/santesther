@@ -1,7 +1,7 @@
 <h1 align="left">Olá 👋</h1>
 
 <h3 align="left">
-Sou uma Desenvolvedora Web apaixonada por construir aplicações escaláveis e seguras.<br><br>
+Sou uma Desenvolvedora Backend apaixonada por construir aplicações escaláveis e seguras.<br><br>
 Comecei minha jornada com Ruby on Rails, onde desenvolvi um sistema real para o Instituto Federal Fluminense — ainda em produção. Hoje estou focada em Java com Spring Boot, explorando arquitetura robusta, segurança com JWT, deploy em cloud e, em breve, meu primeiro SaaS.<br><br>
 Curso Bacharelado em Sistemas de Informação no IFF — Campos dos Goytacazes, e uso o GitHub como espaço de aprendizado contínuo e projetos reais.
 </h3>
