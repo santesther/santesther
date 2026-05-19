@@ -6,18 +6,6 @@ Comecei minha jornada com Ruby on Rails, onde desenvolvi um sistema real para o 
 Curso Bacharelado em Sistemas de Informação no IFF — Campos dos Goytacazes, e uso o GitHub como espaço de aprendizado contínuo e projetos reais.
 </h3>
 
-<h2 align="left">🚀 Em construção agora</h2>
-
-<h4 align="left">
-⚡ <strong>Volt</strong> — app de análise e sugestão de treinos (musculação + corrida)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;→ Backend: Java 21 + Spring Boot 3 + PostgreSQL + JWT<br>
-&nbsp;&nbsp;&nbsp;&nbsp;→ Frontend: React (Vite) como PWA<br>
-&nbsp;&nbsp;&nbsp;&nbsp;→ Deploy: AWS EC2 + Docker + Cloudflare Tunnel + Vercel<br>
-&nbsp;&nbsp;&nbsp;&nbsp;→ Motor de sugestões com cálculo de fadiga muscular por tempo<br><br>
-🎯 <strong>Objetivo:</strong> Lançar meu primeiro SaaS com Java + Spring Boot<br>
-📚 <strong>Estudando:</strong> Arquitetura escalável, segurança de APIs, cloud AWS
-</h4>
-
 <h2 align="left">I code with</h2>
 
 <div align="left">
